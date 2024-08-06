@@ -2,9 +2,6 @@
 > CNN based model for accurately detecting melanoma.
 
 
-## Table of Contents
-
-
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
@@ -13,7 +10,7 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The input data had class imbalance due to which the model was initial overfitting.
+- The input data had class imbalance due to which the model was initially overfitting.
 - Upon doing augmentation and reducing the class imbalance, the model provide better results.
 - The imbalanced handling also lead to slower learning hence needing to increase the number of epochs to get to comparatively higher train and validation\test accuracies. 
 
@@ -25,12 +22,6 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 - Keras
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
